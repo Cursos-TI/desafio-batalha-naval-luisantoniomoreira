@@ -1,5 +1,5 @@
 #include <stdio.h>
-Nível Novato
+
 // Estácio - Desafio Batalha Naval
 // Nível Novato
 
